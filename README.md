@@ -1,2 +1,2 @@
 # myUrba
-Outil pour la gestion des règles d'urbanismes SI
+Un outil pour la gestion des règles d'urbanismes SI
